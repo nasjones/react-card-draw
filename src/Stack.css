@@ -1,0 +1,10 @@
+#cardStack > * {
+	position: absolute;
+	top: 100px;
+	left: 0;
+	right: 0;
+	margin: auto;
+}
+#cardStack {
+	/* width: 50vw; */
+}
